@@ -1,4 +1,4 @@
-# School_Basic_Survey_Summary_Table
+# school_basic_survey_summary_table
 　【和歌山県　学校基本調査 です。】
 ◆はじめに
 学校基本調査は、文部科学省所管により昭和23年以来毎年全国一斉に実施しているものです。 
